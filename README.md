@@ -14,4 +14,4 @@
 
   * Count the number of records (rows) in the dataset.
 
-  * **Transform** the dataset to fit the tables in the [schema file](../Resources/schema.sql). Be sure the DataFrames match in data type and in column name.
+  * **Transform** the dataset to fit the tables in the [schema file](Resources/schema.sql). Be sure the DataFrames match in data type and in column name.
